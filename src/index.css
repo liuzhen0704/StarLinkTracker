@@ -1,9 +1,10 @@
+@import '~antd/dist/antd.css';
 @import "./styles/App.css";
 @import "./styles/Header.css";
 @import "./styles/Footer.css";
 @import "./styles/Main.css";
 @import "./styles/SatSetting.css";
-@import '~antd/dist/antd.css';
+@import "./styles/SatelliteList.css";
 
 body {
   position: relative;
